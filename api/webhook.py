@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 TwitterAPI.io Webhook Monitor - Vercel Serverless Function
-A serverless webhook receiver for real-time Twitter data from TwitterAPI.io
+A serverless awebhook receiver for real-time Twitter data from TwitterAPI.io
 """
 
 import os
